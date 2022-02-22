@@ -1,0 +1,65 @@
+.services {
+    padding-bottom: 30px;
+    text-align: center;
+    padding: 50px 0px;
+}
+.services .section-title h2 {
+    color: white;
+    font-size: 42px;
+}
+.services .section-title p {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 40px;
+    color: white;
+}
+.services .service-box {
+    margin-bottom: 30px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0px 0 5px #bdbdbd;
+    float: left;
+    position: relative;
+    color: white;
+
+    z-index: 1;
+    overflow: hidden;
+}
+
+
+.services i {
+    display: flex;
+    justify-content: center;
+    background:white;
+}
+.services i {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 30px;
+    background: #ffffff;
+    border-radius: 100%;
+    transition: 0.5s;
+    color: black;
+    font-size: 35px;
+    overflow: hidden;
+    padding-top: 18px;
+    box-shadow: 0px 0 5px #bdbdbd;
+    margin: 10px auto 15px;
+}
+.services h4 {
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-size: 18px;
+    position: relative;
+    color: white;
+
+}
+.services h4 a {
+    color: white;
+    text-decoration: none;
+}
+
+.services p {
+    line-height: 24px;
+    font-size: 14px;
+}
